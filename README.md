@@ -25,7 +25,11 @@
   <a href="https://leetcode.com/u/mayanksharma_05/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/sharmamayank1611" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
 </p>
+
 
 ---
 
